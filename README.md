@@ -1,4 +1,2 @@
 # MyWardrobe
-Final Project
-
-This project was inspired by Noemi Kajtar
+This was doneunder branch fix20
